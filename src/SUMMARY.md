@@ -7,3 +7,4 @@
 - [playwright 下载 PDF 文件](./20260419-playwright-pdf.md)
 - [Jetson Nano 安装绿联网卡驱动](./20260419-nano-ugreen.md)
 - [虚拟机内 waydroid 转发 adb](./20260419-guest-waydroid.md)
+- [未曾设想的道路？在 Mesa/NVK 中直接支持 NVIDIA provided 驱动](./20260419-nvk-nvidia.md)
