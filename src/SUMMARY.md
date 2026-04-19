@@ -5,3 +5,4 @@
 - [Arch Linux 安装 bcachefs (dkms)](./20260417-arch-bcachefs.md)
 - [Git 镜像与 insteadOf 选项](./20260419-git-mirror.md)
 - [playwright 下载 PDF 文件](./20260419-playwright-pdf.md)
+- [Jetson Nano 安装绿联网卡驱动](./20260419-nano-ugreen.md)
