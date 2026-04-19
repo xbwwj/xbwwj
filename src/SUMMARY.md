@@ -4,3 +4,4 @@
 - [为什么我不用 NixOS](./260417-why-not-nix.md)
 - [Arch Linux 安装 bcachefs (dkms)](./20260417-arch-bcachefs.md)
 - [Git 镜像与 insteadOf 选项](./20260419-git-mirror.md)
+- [playwright 下载 PDF 文件](./20260419-playwright-pdf.md)
